@@ -1,27 +1,97 @@
 # Hi, I'm Tayyab! 👋
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-EdTech%20Innovator-blue?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Agentic%20AI%20Engineer-blueviolet?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MCP%20Server%20Developer-darkblue?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/-Python%20Developer-orange?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-AI%20for%20Education-red?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-EdTech%20Innovator-blue?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PhD%20Researcher%20@%20UAB-green?style=for-the-badge&logoColor=white" />
 </div>
 
 ---
 
 ## About Me
 
-I'm an **Agentic AI Engineer | EdTech Innovator | Python Developer** with a passion for revolutionizing education. My specialization lies in designing and implementing multi-agent orchestration systems to transform classroom management and personalized learning.
+I'm an **Agentic AI Engineer | MCP Server Developer | EdTech Innovator | PhD Researcher** based in **Barcelona, Spain 🇪🇸**
 
-I operate globally and remotely, leveraging my expertise in:
+I design and build **multi-agent orchestration systems**, **MCP (Model Context Protocol) servers**, and **agentic AI pipelines** — specialising in the intersection of AI and education.
 
-*   **Technical Stack:** Python, AI, Machine Learning, Data Analysis, SQL, Flask, LangGraph, CrewAI
-*   **Soft Skills:** Mathematics Education, Teaching, Curriculum Development, Problem Solving, Data-Driven Decision Making, Multi-Agent Orchestration, Adaptive Curriculum Generation, Real-time Student Diagnostic Assessment, Automated Formative Feedback
+- 🤖 **Open Source Contributor** — Multi-LLM orchestration architecture for [OpenClaw](https://github.com/openclaw/openclaw)
+- 🔌 **MCP Server Developer** — Built [CHeema Text-to-Voice MCP Server](https://github.com/MuhammadTayyabIlyas/CHeema-Text-to-Voice-MCP-Server) for voice synthesis in AI agent workflows
+- 🎓 **PhD Researcher @ UAB** — Studying AI & Pedagogical Digital Competence in Higher Education
+- 🚀 **Founder** — [PakEdX](https://pakedx.com) — AI-powered EdTech platform
 
-My core value proposition is **leveraging Agentic AI and mathematical expertise to build sophisticated pipelines for the future of education.**
+**Tech Stack:** Python · LangGraph · CrewAI · MCP · OpenAI API · Claude API · Gemini API · n8n · Flask · SQL · Pandas · Scikit-learn
 
 ---
 
-## GitHub Activity Snake 🐍
+## 🔥 Featured Projects
+
+### 🔌 CHeema Text-to-Voice MCP Server
+> Model Context Protocol server enabling voice synthesis integration directly within AI agent workflows. Compatible with Claude, OpenClaw, and any MCP-enabled AI host.
+
+**Tech:** Python · MCP Protocol · ElevenLabs API · Anthropic Claude
+🔗 [github.com/MuhammadTayyabIlyas/CHeema-Text-to-Voice-MCP-Server](https://github.com/MuhammadTayyabIlyas/CHeema-Text-to-Voice-MCP-Server)
+
+---
+
+### 🤖 MultiLLMChat — Multi-LLM Orchestration
+> Orchestration system enabling intelligent routing across multiple LLM providers (Claude, GPT, Gemini, DeepSeek) with context-aware model switching and task delegation.
+
+**Tech:** Python · LangGraph · OpenAI API · Claude API · Gemini API
+🔗 [github.com/MuhammadTayyabIlyas/MultiLLMChat](https://github.com/MuhammadTayyabIlyas/MultiLLMChat)
+
+---
+
+### 📚 AI_Teacher — Personalised Math Education
+> AI-powered tool that dynamically generates, manages, and grades mathematics problems with personalised student feedback.
+
+**Tech:** Python · Flask · scikit-learn · NLTK/spaCy
+
+---
+
+### 📊 qualcoder_app — Qualitative Research Tool
+> Python desktop application for qualitative data analysis — enabling researchers to code, categorise, and interpret textual data.
+
+**Tech:** Python · Pandas · PyQt
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+**Languages & Frameworks**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+**AI & Agentic Systems**
+
+![LangGraph](https://img.shields.io/badge/LangGraph-212121?style=for-the-badge&logo=langchain&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-4C51BF?style=for-the-badge&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-CC785C?style=for-the-badge&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+**Data & ML**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## GitHub Activity 🐍
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="github-snake" />
@@ -29,96 +99,10 @@ My core value proposition is **leveraging Agentic AI and mathematical expertise 
 
 ---
 
-## Featured Projects
+## 📫 Connect
 
-<div align="center">
-  <h3>🚀 AI_Teacher</h3>
-  <p>
-    🎯 <b>Purpose:</b> An innovative educational tool leveraging AI to dynamically generate, manage, and grade mathematics problems, offering personalized feedback to students.
-  </p>
-  <p>
-    🛠️ <b>Tech Used:</b> Python, AI/ML Libraries (e.g., scikit-learn for potential grading models, NLTK/spaCy for problem parsing, custom algorithms), Web Framework (Flask for UI).
-  </p>
-  <p>
-    💡 <b>Impact/Innovation:</b> Personalizes learning paths, reduces teacher workload, and provides immediate, targeted student support, making complex math concepts more accessible.
-  </p>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tayyabcheema777/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ceo@pakedx.com)
+[![PakEdX](https://img.shields.io/badge/PakEdX-00B4D8?style=for-the-badge&logoColor=white)](https://pakedx.com)
 
-<br>
-
-<div align="center">
-  <h3>📊 qualcoder_app</h3>
-  <p>
-    🎯 <b>Purpose:</b> A robust Python application designed for efficient qualitative data analysis, enabling researchers to code, categorize, and interpret textual data with ease.
-  </p>
-  <p>
-    🛠️ <b>Tech Used:</b> Python, Data Analysis Libraries (e.g., Pandas for data manipulation), Custom GUI Framework (e.g., PyQt/Kivy/Tkinter for desktop application development).
-  </p>
-  <p>
-    💡 <b>Impact/Innovation:</b> Streamlines the qualitative research process, enhances data integrity, and supports in-depth insights from unstructured data through intuitive functional design.
-  </p>
-</div>
-
----
-
-## Tech Arsenal
-
-<div align="center">
-  <h3>Core Languages</h3>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</div>
-
-<div align="center">
-  <h3>AI & Data</h3>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-212121?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/CrewAI-4C51BF?style=for-the-badge&logoColor=white" />
-  <!-- Optional: Add TensorFlow if applicable, otherwise remove -->
-  <!-- <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> -->
-</div>
-
-<div align="center">
-  <h3>Deployment/Tools</h3>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-</div>
-
----
-
-## My GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/MuhammadTayyabIlyas">
-    <img src="https://github-readme-stats.vercel.app/api?username=MuhammadTayyabIlyas&show_icons=true&theme=radical&hide_border=true" alt="MuhammadTayyabIlyas's GitHub stats" />
-  </a>
-  <br/>
-  <a href="https://github.com/MuhammadTayyabIlyas">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadTayyabIlyas&theme=radical&hide_border=true" alt="GitHub Streak" />
-  </a>
-  <br/>
-  <a href="https://github.com/MuhammadTayyabIlyas">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadTayyabIlyas&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  </a>
-</div>
-
----
-
-## Let's Connect!
-
-I'm always eager to collaborate on innovative EdTech solutions, AI-driven projects, or Python development initiatives. Feel free to reach out!
-
-Pakedx.com is an initiative focused on EdTech innovation and AI in education.
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/tayyabcheema777/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ceo@pakedx.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
+> *"Building the future of education with Agentic AI — one pipeline at a time."*
