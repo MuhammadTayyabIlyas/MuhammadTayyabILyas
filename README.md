@@ -3,6 +3,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/-Agentic%20AI%20Engineer-blueviolet?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/-MCP%20Server%20Developer-darkblue?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Full%20Stack%20%26%20DevOps-teal?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/-Python%20Developer-orange?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-EdTech%20Innovator-blue?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/-PhD%20Researcher%20@%20UAB-green?style=for-the-badge&logoColor=white" />
@@ -12,16 +13,17 @@
 
 ## About Me
 
-I'm an **Agentic AI Engineer | MCP Server Developer | EdTech Innovator | PhD Researcher** based in **Barcelona, Spain 🇪🇸**
+I'm an **Agentic AI Engineer | MCP Server Developer | Full-Stack Developer | EdTech Innovator | PhD Researcher** based in **Barcelona, Spain 🇪🇸**
 
-I design and build **multi-agent orchestration systems**, **MCP (Model Context Protocol) servers**, and **agentic AI pipelines** — specialising in the intersection of AI and education.
+I take products from **ideation to production** — designing agentic AI systems, building full-stack applications, and deploying them on Linux servers. I bridge the gap between AI research and real-world deployment.
 
 - 🤖 **Open Source Contributor** — Multi-LLM orchestration architecture for [OpenClaw](https://github.com/openclaw/openclaw)
 - 🔌 **MCP Server Developer** — Built [CHeema Text-to-Voice MCP Server](https://github.com/MuhammadTayyabIlyas/CHeema-Text-to-Voice-MCP-Server) for voice synthesis in AI agent workflows
+- 🖥️ **Linux/Ubuntu Server** — Deployed and managed multiple production applications on Linux infrastructure
 - 🎓 **PhD Researcher @ UAB** — Studying AI & Pedagogical Digital Competence in Higher Education
 - 🚀 **Founder** — [PakEdX](https://pakedx.com) — AI-powered EdTech platform
 
-**Tech Stack:** Python · LangGraph · CrewAI · MCP · OpenAI API · Claude API · Gemini API · n8n · Flask · SQL · Pandas · Scikit-learn
+**Tech Stack:** Python · LangGraph · CrewAI · MCP · OpenAI API · Claude API · Gemini API · n8n · Flask · Ubuntu Server · Nginx · Docker · SQL · Pandas · Scikit-learn
 
 ---
 
@@ -73,6 +75,13 @@ I design and build **multi-agent orchestration systems**, **MCP (Model Context P
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-CC785C?style=for-the-badge&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+**Infrastructure & DevOps**
+
+![Ubuntu](https://img.shields.io/badge/Ubuntu%20Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 **Data & ML**
 
