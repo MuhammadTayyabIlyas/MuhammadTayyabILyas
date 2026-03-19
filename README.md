@@ -99,10 +99,18 @@ I design and build **multi-agent orchestration systems**, **MCP (Model Context P
 
 ---
 
-## 📫 Connect
+## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tayyabcheema777/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ceo@pakedx.com)
-[![PakEdX](https://img.shields.io/badge/PakEdX-00B4D8?style=for-the-badge&logoColor=white)](https://pakedx.com)
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Website-tayyabcheema.com-00B4D8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tayyabcheema.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-tayyabcheema777-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tayyabcheema777/)
+[![Twitter/X](https://img.shields.io/badge/Twitter%2FX-@TayyabCheema-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/TayyabCheema)
+[![Instagram](https://img.shields.io/badge/Instagram-@tayyabcheema777-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tayyabcheema777)
+[![GitHub](https://img.shields.io/badge/GitHub-tayyabcheema777-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tayyabcheema777)
+[![Email](https://img.shields.io/badge/Email-ceo@pakedx.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ceo@pakedx.com)
+[![PakEdX](https://img.shields.io/badge/PakEdX-pakedx.com-00B4D8?style=for-the-badge&logoColor=white)](https://pakedx.com)
+
+</div>
 
 > *"Building the future of education with Agentic AI — one pipeline at a time."*
