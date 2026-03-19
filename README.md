@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/-Agentic%20AI%20Engineer-blueviolet?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MCP%20Server%20Developer-darkblue?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Published%20MCP%20Server%20Developer-darkblue?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/-Full%20Stack%20%26%20DevOps-teal?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/-Python%20Developer-orange?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-EdTech%20Innovator-blue?style=for-the-badge&logoColor=white" />
@@ -13,27 +13,33 @@
 
 ## About Me
 
-I'm an **Agentic AI Engineer | MCP Server Developer | Full-Stack Developer | EdTech Innovator | PhD Researcher** based in **Barcelona, Spain 🇪🇸**
+I'm an **Agentic AI Engineer | Published MCP Server Developer | Full-Stack Developer | EdTech Innovator | PhD Researcher** based in **Barcelona, Spain 🇪🇸**
 
-I take products from **ideation to production** — designing agentic AI systems, building full-stack applications, and deploying them on Linux servers. I bridge the gap between AI research and real-world deployment.
+I take products from **ideation to production** — designing agentic AI systems, building full-stack applications, publishing MCP servers, and deploying them on Linux servers.
 
+- 🔌 **Published MCP Server** — [Cheema Text-to-Voice](https://mcpservers.org/servers/muhammadtayyabilyas/cheema-text-to-voice-mcp-server) listed on mcpservers.org — free, local TTS + voice cloning for Claude Desktop, Claude Code & n8n. No API keys. No cloud.
 - 🤖 **Open Source Contributor** — Multi-LLM orchestration architecture for [OpenClaw](https://github.com/openclaw/openclaw)
-- 🔌 **MCP Server Developer** — Built [CHeema Text-to-Voice MCP Server](https://github.com/MuhammadTayyabIlyas/CHeema-Text-to-Voice-MCP-Server) for voice synthesis in AI agent workflows
 - 🖥️ **Linux/Ubuntu Server** — Deployed and managed multiple production applications on Linux infrastructure
 - 🎓 **PhD Researcher @ UAB** — Studying AI & Pedagogical Digital Competence in Higher Education
 - 🚀 **Founder** — [PakEdX](https://pakedx.com) — AI-powered EdTech platform
 
-**Tech Stack:** Python · LangGraph · CrewAI · MCP · OpenAI API · Claude API · Gemini API · n8n · Flask · Ubuntu Server · Nginx · Docker · SQL · Pandas · Scikit-learn
+**Tech Stack:** Python · LangGraph · CrewAI · MCP · NeuTTS · OpenAI API · Claude API · Gemini API · n8n · Flask · Ubuntu Server · Nginx · Docker · SQL · Pandas · Scikit-learn
 
 ---
 
 ## 🔥 Featured Projects
 
-### 🔌 CHeema Text-to-Voice MCP Server
-> Model Context Protocol server enabling voice synthesis integration directly within AI agent workflows. Compatible with Claude, OpenClaw, and any MCP-enabled AI host.
+### 🔌 Cheema Text-to-Voice MCP Server [![Listed on mcpservers.org](https://img.shields.io/badge/Listed%20on-mcpservers.org-CC785C?style=flat-square)](https://mcpservers.org/servers/muhammadtayyabilyas/cheema-text-to-voice-mcp-server)
+> **Published & live** on mcpservers.org — free, open-source MCP server providing local text-to-speech and voice cloning to AI assistants. No API keys. No cloud. Runs entirely on your machine.
 
-**Tech:** Python · MCP Protocol · ElevenLabs API · Anthropic Claude
-🔗 [github.com/MuhammadTayyabIlyas/CHeema-Text-to-Voice-MCP-Server](https://github.com/MuhammadTayyabIlyas/CHeema-Text-to-Voice-MCP-Server)
+- ✅ 5 built-in voices across 4 languages
+- ✅ Voice cloning from a short WAV sample
+- ✅ Compatible with Claude Desktop, Claude Code, n8n, and any MCP client
+- ✅ Supports stdio / SSE / HTTP transports
+- ✅ MIT Licensed
+
+**Tech:** Python · MCP Protocol · NeuTTS · espeak-ng · CUDA (optional)
+🔗 [mcpservers.org listing](https://mcpservers.org/servers/muhammadtayyabilyas/cheema-text-to-voice-mcp-server) · [GitHub repo](https://github.com/MuhammadTayyabIlyas/CHeema-Text-to-Voice-MCP-Server)
 
 ---
 
@@ -41,7 +47,7 @@ I take products from **ideation to production** — designing agentic AI systems
 > Orchestration system enabling intelligent routing across multiple LLM providers (Claude, GPT, Gemini, DeepSeek) with context-aware model switching and task delegation.
 
 **Tech:** Python · LangGraph · OpenAI API · Claude API · Gemini API
-🔗 [github.com/MuhammadTayyabIlyas/MultiLLMChat](https://github.com/MuhammadTayyabIlyas/MultiLLMChat)
+🔗 [GitHub](https://github.com/MuhammadTayyabIlyas/MultiLLMChat)
 
 ---
 
